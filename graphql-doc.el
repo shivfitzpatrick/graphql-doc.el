@@ -1,8 +1,8 @@
 ;;; graphql-doc.el --- GraphQL Documentation Explorer -*- lexical-binding: t -*-
 
-;; Copyright (c) 2021 Ian Fitzpatrick <itfitzpatrick@gmail.com>
+;; Copyright (c) 2021 Siobhan Fitzpatrick <shivfitzpatrick@gmail.com>
 
-;; Author: Ian Fitzpatrick
+;; Author: Siobhan Fitzpatrick
 ;; Created: April 25, 2021
 ;; Version: 0.2.1
 ;; Package-Requires: ((emacs "26.1") (request "0.3.2") (promise "1.1"))
